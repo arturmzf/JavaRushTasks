@@ -175,3 +175,36 @@
 2019-07-18 00:30:18 INFO  ApacheHttpClient.getTask(471) - responseCode = 200
 2019-07-18 00:30:19 INFO  ApacheHttpClient.getTask(471) - responseCode = 200
 2019-07-18 00:30:19 INFO  ApacheHttpClient.getTask(471) - responseCode = 200
+2019-07-18 00:34:01 INFO  PluginTasksProjectComponent.projectOpened(77) - ---------- Project opened ----------
+2019-07-18 00:34:01 INFO  PluginTasksProjectComponent.projectOpened(78) - ---------- Version 3.31 ----------
+
+2019-07-18 00:34:01 INFO  ApacheHttpClient.createAsyncHttpClient(135) - 1 proxies selected. Type: DIRECT
+2019-07-18 00:34:01 INFO  ApacheHttpClient.<init>(93) - ApacheHttpClient was successfully instantiated.
+2019-07-18 00:34:01 INFO  ApacheHttpClient.testConnection(193) - responseCode = 200
+2019-07-18 00:34:01 INFO  ApacheHttpClient.testConnection(208) - result = true
+2019-07-18 00:34:02 INFO  ApacheHttpClient.isSessionAppropriateWithSecretKey(585) - Waiting for server response.
+2019-07-18 00:34:02 INFO  ApacheHttpClient.refreshUserInfo(293) - responseCode = 200
+2019-07-18 00:34:02 INFO  ApacheHttpClient.refreshUserInfo(299) - User information received.
+2019-07-18 00:34:02 INFO  ApacheHttpClient.startGA(35) - GAService started.
+2019-07-18 00:34:02 INFO  AbstractRestApiClient.startService(71) - EventsService started.
+2019-07-18 00:34:30 INFO  ApacheHttpClient.getWebResourceAsStream(485) - responseCode = 200
+2019-07-18 00:34:31 INFO  ApacheHttpClient.getFilteredTasks(324) - responseCode = 200
+2019-07-18 00:34:39 INFO  ApacheHttpClient.getTaskTemplateInfo(341) - responseCode = 200
+2019-07-18 00:34:41 INFO  ApacheHttpClient.getWebResourceAsStream(485) - responseCode = 200
+2019-07-18 00:35:02 INFO  ApacheHttpClient.sendEvent(518) - responseCode = 200
+2019-07-18 00:36:02 INFO  ApacheHttpClient.sendEvent(518) - responseCode = 200
+2019-07-18 00:36:13 INFO  ApacheHttpClient.getWebResourceAsStream(485) - responseCode = 200
+2019-07-18 00:36:14 INFO  ApacheHttpClient.getWebResourceAsStream(485) - responseCode = 200
+2019-07-18 00:36:14 INFO  ApacheHttpClient.getTask(471) - responseCode = 200
+2019-07-18 00:36:15 INFO  ApacheHttpClient.completed(28) - responseCode = 200
+2019-07-18 00:36:15 INFO  ApacheHttpClient.getWebResourceAsStream(485) - responseCode = 200
+2019-07-18 00:36:15 INFO  ApacheHttpClient.getTask(471) - responseCode = 200
+2019-07-18 00:36:15 INFO  ApacheHttpClient.completed(28) - responseCode = 400
+2019-07-18 00:36:15 INFO  ApacheHttpClient.getWebResourceAsStream(485) - responseCode = 200
+2019-07-18 00:36:16 INFO  ApacheHttpClient.getTask(471) - responseCode = 200
+2019-07-18 00:36:16 WARN  TaskCompleted.run(70) - You already completed this task: "Напиши программу, которая выводит на экран надпись: «JavaRush. Learn once - use anywhere» 10 раз."
+2019-07-18 00:37:04 INFO  ApacheHttpClient.getWebResourceAsStream(485) - responseCode = 200
+2019-07-18 00:37:04 INFO  ApacheHttpClient.getFilteredTasks(324) - responseCode = 200
+2019-07-18 00:38:14 INFO  ApacheHttpClient.getTaskTemplateInfo(341) - responseCode = 200
+2019-07-18 00:38:14 INFO  ApacheHttpClient.getWebResourceAsStream(485) - responseCode = 200
+2019-07-18 00:39:02 INFO  ApacheHttpClient.sendEvent(518) - responseCode = 200
