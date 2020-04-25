@@ -2,44 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="8a9c2848-0864-419d-ba1c-a0669c6ee00f" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/1.JavaSyntax/src/com/javarush/task/task01/task0129/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/1.JavaSyntax/src/com/javarush/task/task01/task0129/Условие.jrtc" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/1.JavaSyntax/src/com/javarush/task/task01/task0130/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/1.JavaSyntax/src/com/javarush/task/task01/task0130/Условие.jrtc" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/1.JavaSyntax/src/com/javarush/task/task01/task0136/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/1.JavaSyntax/src/com/javarush/task/task01/task0136/Условие.jrtc" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/1.JavaSyntax/src/com/javarush/task/task02/task0201/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/1.JavaSyntax/src/com/javarush/task/task02/task0201/Условие.jrtc" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/1.JavaSyntax/src/com/javarush/task/task02/task0202/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/1.JavaSyntax/src/com/javarush/task/task02/task0202/Условие.jrtc" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/1.JavaSyntax/src/com/javarush/task/task02/task0204/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/1.JavaSyntax/src/com/javarush/task/task02/task0204/Условие.jrtc" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/1.JavaSyntax/src/com/javarush/task/task02/task0205/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/1.JavaSyntax/src/com/javarush/task/task02/task0205/Условие.jrtc" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/1.JavaSyntax/src/com/javarush/task/task02/task0207/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/1.JavaSyntax/src/com/javarush/task/task02/task0207/Условие.jrtc" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/1.JavaSyntax/src/com/javarush/task/task02/task0208/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/1.JavaSyntax/src/com/javarush/task/task02/task0208/Условие.jrtc" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/1.JavaSyntax/src/com/javarush/task/task02/task0209/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/1.JavaSyntax/src/com/javarush/task/task02/task0209/Условие.jrtc" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/1.JavaSyntax/src/com/javarush/task/task02/task0210/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/1.JavaSyntax/src/com/javarush/task/task02/task0210/Условие.jrtc" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/1.JavaSyntax/src/com/javarush/task/task02/task0211/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/1.JavaSyntax/src/com/javarush/task/task02/task0211/Условие.jrtc" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/1.JavaSyntax/src/com/javarush/task/task02/task0212/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/1.JavaSyntax/src/com/javarush/task/task02/task0212/Условие.jrtc" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/1.JavaSyntax/src/com/javarush/task/task02/task0213/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/1.JavaSyntax/src/com/javarush/task/task02/task0213/Условие.jrtc" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/1.JavaSyntax/src/com/javarush/task/task02/task0214/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/1.JavaSyntax/src/com/javarush/task/task02/task0214/Условие.jrtc" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/1.JavaSyntax/src/com/javarush/task/task02/task0216/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/1.JavaSyntax/src/com/javarush/task/task02/task0216/Условие.jrtc" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/1.JavaSyntax/src/com/javarush/task/task02/task0217/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/1.JavaSyntax/src/com/javarush/task/task02/task0217/Условие.jrtc" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/1.JavaSyntax/src/com/javarush/task/task02/task0218/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/1.JavaSyntax/src/com/javarush/task/task02/task0218/Условие.jrtc" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/1.JavaSyntax/src/com/javarush/task/task02/task0219/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/1.JavaSyntax/src/com/javarush/task/task02/task0219/Условие.jrtc" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/JavaRushPlugin.properties" beforeDir="false" afterPath="$PROJECT_DIR$/JavaRushPlugin.properties" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/out.log" beforeDir="false" afterPath="$PROJECT_DIR$/out.log" afterDir="false" />
@@ -89,10 +51,10 @@
     <option name="autoscrollFromSource" value="true" />
     <option name="autoscrollToSource" value="true" />
     <option name="hideEmptyMiddlePackages" value="true" />
-    <option name="showExcludedFiles" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
@@ -295,7 +257,7 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType" factoryName="Kotlin script">
+    <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType">
       <option name="filePath" />
       <option name="vmParameters" />
       <option name="alternativeJrePath" />
@@ -366,18 +328,6 @@
       </list>
     </recent_temporary>
   </component>
-  <component name="ServiceViewManager">
-    <option name="viewStates">
-      <list>
-        <serviceView>
-          <treeState>
-            <expand />
-            <select />
-          </treeState>
-        </serviceView>
-      </list>
-    </option>
-  </component>
   <component name="SvnConfiguration">
     <configuration />
   </component>
@@ -413,25 +363,26 @@
       <workItem from="1574549361342" duration="396000" />
       <workItem from="1575894903368" duration="860000" />
       <workItem from="1575899005389" duration="1768000" />
-      <workItem from="1575904550621" duration="8273000" />
+      <workItem from="1575904550621" duration="8601000" />
+      <workItem from="1587552264731" duration="1105000" />
+      <workItem from="1587553868503" duration="649000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
-    <option name="version" value="1" />
+    <option name="version" value="2" />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
     <option name="TAB_STATES">
       <map>
         <entry key="MAIN">
           <value>
-            <State>
-              <option name="COLUMN_ORDER" />
-            </State>
+            <State />
           </value>
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="Vcs.Log.UiProperties">
     <option name="RECENTLY_FILTERED_USER_GROUPS">
@@ -442,30 +393,18 @@
     </option>
   </component>
   <component name="WindowStateProjectService">
-    <state width="1554" height="214" key="GridCell.Tab.0.bottom" timestamp="1575900718668">
-      <screen x="0" y="0" width="1600" height="860" />
+    <state x="743" y="283" width="424" height="510" key="FileChooserDialogImpl" timestamp="1587553846941">
+      <screen x="0" y="0" width="1920" height="935" />
     </state>
-    <state width="1554" height="214" key="GridCell.Tab.0.bottom/0.0.1600.860/1600.0.1366.768@0.0.1600.860" timestamp="1575900718668" />
-    <state width="1554" height="214" key="GridCell.Tab.0.center" timestamp="1575900718668">
-      <screen x="0" y="0" width="1600" height="860" />
+    <state x="743" y="283" width="424" height="510" key="FileChooserDialogImpl/1920.75.1600.900/0.0.1920.935@0.0.1920.935" timestamp="1587553846941" />
+    <state x="543" y="276" width="824" height="523" key="IDE.errors.dialog" timestamp="1587553789788">
+      <screen x="0" y="0" width="1920" height="935" />
     </state>
-    <state width="1554" height="214" key="GridCell.Tab.0.center/0.0.1600.860/1600.0.1366.768@0.0.1600.860" timestamp="1575900718668" />
-    <state width="1554" height="214" key="GridCell.Tab.0.left" timestamp="1575900718668">
-      <screen x="0" y="0" width="1600" height="860" />
+    <state x="543" y="276" width="824" height="523" key="IDE.errors.dialog/1920.75.1600.900/0.0.1920.935@0.0.1920.935" timestamp="1587553789788" />
+    <state x="464" y="174" key="SettingsEditor" timestamp="1587553854774">
+      <screen x="0" y="0" width="1920" height="935" />
     </state>
-    <state width="1554" height="214" key="GridCell.Tab.0.left/0.0.1600.860/1600.0.1366.768@0.0.1600.860" timestamp="1575900718668" />
-    <state width="1554" height="214" key="GridCell.Tab.0.right" timestamp="1575900718668">
-      <screen x="0" y="0" width="1600" height="860" />
-    </state>
-    <state width="1554" height="214" key="GridCell.Tab.0.right/0.0.1600.860/1600.0.1366.768@0.0.1600.860" timestamp="1575900718668" />
-    <state x="493" y="256" key="com.intellij.ide.util.TipDialog" timestamp="1575904556168">
-      <screen x="0" y="0" width="1600" height="860" />
-    </state>
-    <state x="493" y="256" key="com.intellij.ide.util.TipDialog/0.0.1600.860/1600.0.1366.768@0.0.1600.860" timestamp="1575904556168" />
-    <state x="463" y="181" width="672" height="678" key="search.everywhere.popup" timestamp="1575906996798">
-      <screen x="0" y="0" width="1600" height="860" />
-    </state>
-    <state x="463" y="181" width="672" height="678" key="search.everywhere.popup/0.0.1600.860/1600.0.1366.768@0.0.1600.860" timestamp="1575906996798" />
+    <state x="464" y="174" key="SettingsEditor/1920.75.1600.900/0.0.1920.935@0.0.1920.935" timestamp="1587553854774" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/JavaRushTasks$Solution__1_.ic" NAME="Solution (1) Coverage Results" MODIFIED="1573310507291" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
